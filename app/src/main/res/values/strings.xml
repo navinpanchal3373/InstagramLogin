@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Webmob Technologies</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_action_exit">Logout</string>
+</resources>
